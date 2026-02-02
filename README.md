@@ -1,4 +1,4 @@
-# 🚀 FastDeploy
+#🚀 FastDeploy
 
 FastDeploy is a beginner-friendly web project that shows how a simple website can be deployed online easily.  
 This project is perfect if you are learning HTML, CSS and want to understand how deployment works.
